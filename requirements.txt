@@ -2,7 +2,6 @@ fastapi
 uvicorn[standard]
 aiofiles
 jinja2
--r requirements.txt
 responses
 pytest
 pytest-flake8
